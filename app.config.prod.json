@@ -1,0 +1,4 @@
+{
+    "ServerUrl": "http://localhost:65432",
+    "HubConnectionApi": "http://localhost:5000/push"    
+}
